@@ -32,15 +32,15 @@ import java.util.Map;
  * TreeNode(int x) { val = x; }
  * }
  */
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-
-    TreeNode(int x) {
-        val = x;
-    }
-}
+//class TreeNode {
+//    int val;
+//    TreeNode left;
+//    TreeNode right;
+//
+//    TreeNode(int x) {
+//        val = x;
+//    }
+//}
 
 public class Offer07 {
 //    public TreeNode buildTree(int[] preorder, int[] inorder) {
